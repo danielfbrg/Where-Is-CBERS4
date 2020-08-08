@@ -39,8 +39,8 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
 
 
 _______________________________________________________
-**CBERS-4
-**https://www.n2yo.com/satellite/?s=40336
+**CBERS-4**
+https://www.n2yo.com/satellite/?s=40336
 _______________________________________________________
 
 NORAD ID: 40336 
