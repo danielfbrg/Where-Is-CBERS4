@@ -12,13 +12,9 @@ Consuming the following APIs and library:
 ### Leaflet
 ###### [https://leafletjs.com/](https://https://leafletjs.com/ "Leaflet")
 Leaflet is a widely used open source JavaScript library used to build web mapping applications. 
-
-
-## Sources:
 <br>
 
-### Chart.js
-###### [https://www.chartjs.org/](https://www.chartjs.org/ "Chart.js")
+## Sources:
 <br>
 
 ### INPE - Instituto Nacional de Pesquisas Espaciais
