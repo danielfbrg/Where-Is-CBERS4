@@ -55,4 +55,4 @@ _______________________________________________________
 
 ![](https://raw.githubusercontent.com/danielfbrg/danielfbrg.github.io/master/cbers04/Screenshot.png)
 
-[**Demo**](https://danielfbrg.github.io/cbers04/)
+[**Demo without chart**](https://danielfbrg.github.io/covidmap/)
